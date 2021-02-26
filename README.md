@@ -35,7 +35,7 @@ to double click into it to validate you choice.
 
 The first box is now ready, you have now to repeat this steps for the 5 remaining boxes.
 
-5) Once every boxes have been defined properly (location and experimental conditions), the analysis start.
+5) Once every boxes have been defined properly (location and experimental conditions), the analysis starts.
 6) Once the analysis is finished a message appears into the Matlab console to tell you where to find the directory containing the results (Figures and CSV files)
 
 
