@@ -1,4 +1,4 @@
-# Code Reposiitory
+# Code Repository
 
 ### __"Drosophila Aversive Behavior toward Erwinia carotovora carotovora Is Mediated by Bitter Neurons and Leukokinin"__
 #### Bernard Charroux, Fabrice Daian, Julien Royet 
